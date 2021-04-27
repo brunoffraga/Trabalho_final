@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1619463834 source:g:\drives compartilhados\projetofinal\projeto_final\arquivos.c
+	"funcoes.h"
+	<stdio.h>
+
+1619461355 g:\drives compartilhados\projetofinal\projeto_final\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
+1619464704 source:g:\drives compartilhados\projetofinal\projeto_final\cadastro.c
+	"funcoes.h"
+	<stdio.h>
+
+1619462791 source:g:\drives compartilhados\projetofinal\projeto_final\consulta.c
+	"funcoes.h"
+
+1619458250 source:g:\drives compartilhados\projetofinal\projeto_final\editar.c
+	"funcoes.h"
+	<stdio.h>
+
+1619463851 source:g:\drives compartilhados\projetofinal\projeto_final\excluir.c
+	"funcoes.h"
+
+1618950787 source:g:\drives compartilhados\projetofinal\projeto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	"funcoes.h"
+
+1619409316 source:g:\drives compartilhados\projetofinal\projeto_final\menu.c
+	"funcoes.h"
+
+1619384837 source:g:\drives compartilhados\projetofinal\projeto_final\controle.c
+	"funcoes.h"
+
+1619466727 source:g:\drives compartilhados\projetofinal\projeto_final\calcular_dias_viagens.c
+	"funcoes.h"
+
