@@ -1,2 +1,2 @@
-# Trabalho_final
- Apreendendo a fazer repositorio Guit
+# Trabalho final de Programação
+ Aprendendo a fazer repositorio Git
